@@ -1,3 +1,3 @@
 # Este es GitHub
 
-Lorem Ipsum Lorem Ipsum
+Me gusta mucho DUOC UC :)
