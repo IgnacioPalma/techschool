@@ -1,3 +1,3 @@
 # Este es GitHub
 
-Me gusta mucho DUOC UC :)
+Me gusta mucho Techschool
