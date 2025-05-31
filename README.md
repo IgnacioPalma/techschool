@@ -1,3 +1,3 @@
-# Este es Techschool
+# Este es GitHub
 
 Lorem Ipsum
